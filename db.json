@@ -44,35 +44,7 @@
     }
   ],
   "cart": [
-    {
-      "id": 2,
-      "title": "Ароматный",
-      "description": "Диет-букет",
-      "price": 2000,
-      "img": "/img/katalog/2.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Кислый",
-      "description": "На варенье",
-      "price": 2300,
-      "img": "/img/katalog/3.jpg"
-    }
   ],
   "favorites": [
-    {
-      "id": 1,
-      "title": "Королевишне",
-      "description": "В коробочке как надо",
-      "price": 1500,
-      "img": "/img/katalog/1.jpeg"
-    },
-    {
-      "id": 2,
-      "title": "Ароматный",
-      "description": "Диет-букет",
-      "price": 2000,
-      "img": "/img/katalog/2.jpg"
-    }
   ]
 }
